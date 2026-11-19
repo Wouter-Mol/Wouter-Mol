@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hey, I'm Wouter 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7AA2F7&height=200&section=header&text=Hey,%20I'm%20Wouter%20👋&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" alt="Profile Banner" />
+
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wouter-Mol&color=7AA2F7&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
@@ -31,7 +33,7 @@ Currently working on a project using **Vue.js**.
 **Frameworks & Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,vue,vscode,github&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=tailwind,vue,vscode,git,github&theme=dark" alt="Tools" />
 </p>
 
 **Database Tools**
