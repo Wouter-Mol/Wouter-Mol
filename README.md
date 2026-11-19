@@ -25,7 +25,7 @@ Currently working on a project using **Vue.js**.
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,python,mysql&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,python,mysql,lua&theme=dark" alt="Languages" />
 </p>
 
 **Frameworks & Tools**
@@ -38,6 +38,7 @@ Currently working on a project using **Vue.js**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 <br>
